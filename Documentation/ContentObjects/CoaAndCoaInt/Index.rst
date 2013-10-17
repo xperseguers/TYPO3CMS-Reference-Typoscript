@@ -99,7 +99,7 @@ non-cached, but to render *every* cObject non-cached.
 Example:
 """"""""
 
-::
+.. code-block:: typoscript
 
    temp.menutable = COBJ_ARRAY
    temp.menutable {
